@@ -32,6 +32,13 @@
     "chai": "^3.4.1",
     "watchify": "^3.6.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siuying/react-split-layout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siuying/react-split-layout/issues"
+  },
   "browserify": {
     "transform": [
       [
